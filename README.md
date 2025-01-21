@@ -1,6 +1,6 @@
 # SherlockImage
 
-![alt text](https://github.com/YuioiuY/SherlockImage/blob/main/source/logo.jpg)
+![alt text](https://github.com/YuioiuY/SherlockImage/blob/main/source/logo.png)
 
 This project was made with the aim of processing real images from fake ones. For example, a test dataset was compiled from fake images of dogs and a real one made up of photos taken from kaggle.
 
@@ -26,11 +26,11 @@ Then you can run the main file.py and check the work of the project.
 
 Result - > 
 
-![alt text](https://github.com/YuioiuY/SherlockImage/blob/main/source/Figure_1.jpg)
+![alt text](https://github.com/YuioiuY/SherlockImage/blob/main/source/Figure_1.png)
 
 Score = 0.79
 
-![alt text](https://github.com/YuioiuY/SherlockImage/blob/main/source/result.jpg)
+![alt text](https://github.com/YuioiuY/SherlockImage/blob/main/source/result.png)
 
 ## P.S.
 
